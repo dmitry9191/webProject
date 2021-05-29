@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: khaki;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'times new roman', palatino linotype, athena, tahoma;
+    font-size: 12pt;
+    color: rgb(204,0,0);
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 12px;    
+}
+
+h2 {
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.chapterNumber {
+    text-align: center;
+    color: rgb(238, 45, 11);
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.through {
+    text-decoration: line-through;
+}
+
+img {
+    display: block;
+    width: 200px;
+    margin: 30px auto; 
+}
+
+.check {
+    margin-bottom: 40px;
+}
