@@ -1,17 +1,4 @@
-import React from 'react';
-import hroznys from './img/hroznys.jpg';
-import klobouk from './img/klobouk.jpg';
-import slon from './img/slon.jpg';
-import malyPrince from './img/malyPrinc.jpg';
-import nemocnyBeranek from './img/nemocnyBeranek.jpg';
-import beranek from './img/Beran.jpg';
-import staryBeranek from './img/staryBeranek.jpg';
-import krabice from './img/krabice.jpg';
-
-
-
-const LittlePrince = () => {
-    return (
+return (
         /* <header></header> */
         /* <nav></nav> navigation*/
         /* <article>Оформление записи в блоге</article> */
@@ -90,6 +77,3 @@ const LittlePrince = () => {
             <p>And that is how I made the acquaintance of the little prince.</p>
         </div>
     )
-}
-
-export default LittlePrince;

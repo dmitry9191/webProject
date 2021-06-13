@@ -1,12 +1,12 @@
 import React, {Component} from 'react';
-import LittlePrince from '../littlePrince';
+import ClassicWeb from '../classicWeb';
 
 export default class App extends Component {
 
-    render() {
+    render() {  
         return (
             <div>
-                <LittlePrince/>
+                <ClassicWeb/>
             </div>
         )
     }
