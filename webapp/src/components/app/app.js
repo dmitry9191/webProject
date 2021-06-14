@@ -1,12 +1,14 @@
 import React, {Component} from 'react';
-import ClassicWeb from '../classicWeb';
+import Header from '../header';
+import Waiting from '../waiting';
 
 export default class App extends Component {
 
     render() {  
         return (
             <div>
-                <ClassicWeb/>
+                <Header/>
+                <Waiting/>
             </div>
         )
     }
