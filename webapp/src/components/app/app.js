@@ -1,12 +1,14 @@
 import React, {Component} from 'react';
-import LittlePrince from '../littlePrince';
+import Header from '../header';
+import Waiting from '../waiting';
 
 export default class App extends Component {
 
-    render() {
+    render() {  
         return (
             <div>
-                <LittlePrince/>
+                <Header/>
+                <Waiting/>
             </div>
         )
     }

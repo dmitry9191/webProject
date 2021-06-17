@@ -1,17 +1,4 @@
-import React from 'react';
-import hroznys from './img/hroznys.jpg';
-import klobouk from './img/klobouk.jpg';
-import slon from './img/slon.jpg';
-import malyPrince from './img/malyPrinc.jpg';
-import nemocnyBeranek from './img/nemocnyBeranek.jpg';
-import beranek from './img/Beran.jpg';
-import staryBeranek from './img/staryBeranek.jpg';
-import krabice from './img/krabice.jpg';
-
-
-
-const LittlePrince = () => {
-    return (
+return (
         /* <header></header> */
         /* <nav></nav> navigation*/
         /* <article>Оформление записи в блоге</article> */
@@ -89,8 +76,12 @@ const LittlePrince = () => {
             <p><span className="italic">"Not so small that--Look! He has gone to sleep..."</span></p>
             <p>And that is how I made the acquaintance of the little prince.</p>
         </div>
+<<<<<<< HEAD:webapp/src/components/littlePrince/littlePrince.js
     )
 }
 
 export default LittlePrince;
 
+=======
+    )
+>>>>>>> 9280fd52e93cc9dbebe3209559bb0c00fc25ed37:webapp/src/components/header/oldLittlePrince.txt
