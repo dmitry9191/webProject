@@ -1,0 +1,51 @@
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.optimization {
+    min-height: 549px;
+    background-color: #ffffff;
+    padding: 108px 0 75px 0;
+}
+
+.optimization .optimization_header {
+    margin-left: 376px;
+    font-family: "Roboto";
+    font-weight: 900;
+    font-size: 28px;
+    text-transform: uppercase;
+    color: #299CBD;
+    position: relative;
+    z-index: 2;
+}
+
+.optimization .optimization_text {
+    font-family: "Roboto";
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 27px;
+    color: #4A4A4A;
+    margin-left: 376px;
+    margin-top: 25px;
+    position: relative;
+    z-index: 2;
+}
+
+.optimization .optimization_text p:not(:first-of-type) {
+    margin-top: 25px;
+}
+
+.optimization .optimization_text p:last-of-type {
+    font-weight: 700;
+}
+
+.optimization .optimization_img {
+    width: 868px;
+    height: 502px;
+    position: absolute;
+    top: -61px;
+    left: -255px;
+    z-index: 1;
+}

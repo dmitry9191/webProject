@@ -1,0 +1,38 @@
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.finish {
+    min-height: 450px;
+    padding: 86px 0 68.5px 0;
+    background: url('./img/second_bg.jpg') center center/cover no-repeat;
+}
+
+.finish .finish_header {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #EFEFEF;;
+}
+
+.finish .finish_divider {
+    margin: 0 auto;
+    margin-top: 18px;
+    width: 220px;
+    height: 7px;
+    background: #F9BF3B;
+}
+
+.finish .finish_wrapper {
+    margin-top: 39px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.finish .finish_wrapper .finish_item {
+    width: 234px;
+}
