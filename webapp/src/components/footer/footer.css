@@ -1,0 +1,24 @@
+.footer {
+    min-height: 169px;
+    background: #1A1A1A;
+    padding: 57px 0 69px 0;
+}
+
+.footer .footer_text {
+    margin: 0 auto;
+    width: 407px;
+    
+    font-family: "Roboto";
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 21px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #888888;
+}
+
+.footer .footer_text a {
+    text-decoration: none;
+    color: #888888;
+}
+

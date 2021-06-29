@@ -3,6 +3,9 @@ import Header from '../header';
 import Waiting from '../waiting';
 import Optimization from '../optimization';
 import Finish from '../finish';
+import Gifts from '../gifts';
+import Webinar from '../webinar';
+import Footer from '../footer';
 
 export default class App extends Component {
 
@@ -13,6 +16,9 @@ export default class App extends Component {
                 <Waiting/>
                 <Optimization/>
                 <Finish/>
+                <Gifts/>
+                <Webinar/>
+                <Footer/>
             </div>
         )
     }

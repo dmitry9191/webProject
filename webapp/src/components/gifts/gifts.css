@@ -1,0 +1,42 @@
+.gifts {
+    min-height: 631px;
+    background: #efefef;
+    padding: 88px 0 88px 0;
+}
+
+.gifts .gifts_img {
+    display: block;
+    margin: 0 auto;
+    width: 154px;
+    height: 174px;
+}   
+
+.gifts .gifts_text {
+    width: 1161px;
+    height: 113px;
+    font-family: "Roboto";
+    font-size: 30px;
+    line-height: 43px;
+    text-align: center;
+    color: #252525;
+    margin-top: 45px;
+}
+
+.gifts .gifts_btn {
+    display: block;
+    margin: 0 auto;
+    margin-top: 51px;
+    border: none;
+    width: 313px;
+    height: 72px;
+    background: linear-gradient(0deg, #2798B9 0%, #3AB6DA 100%);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+    outline: none;
+
+    font-family: "Roboto - Condensed";
+    font-size: 21px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-shadow: -1px -1px 0px rgba(0, 0, 0, 0.22);
+}

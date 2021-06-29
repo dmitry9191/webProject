@@ -1,0 +1,43 @@
+.webinar {
+    min-height: 512px;
+    background: #fff;
+    padding: 89px 0 52.5px 0;
+}
+
+.webinar .webinar_img {
+    display: block;
+    width: 342px;
+    height: 201px;
+    margin: 0 auto;
+}
+
+.webinar .webinar_title {
+    margin-top: 36px;
+    font-style: normal;
+    font-weight: normal;
+    font-family: "Roboto";
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #252525;
+}
+
+.webinar span {
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    font-family: "Roboto";
+    font-weight: 900;
+    font-size: 36px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #299CBD;
+}
+
+.webinar p {
+    font-family: "Roboto";
+    font-size: 23px;
+    text-align: center;
+    color: #4A4A4A;
+    margin-top: 24.5px;
+}
