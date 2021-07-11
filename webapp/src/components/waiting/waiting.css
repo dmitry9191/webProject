@@ -19,7 +19,7 @@
 .waiting .waiting_header {
     font-family: "Roboto";
     font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
     font-size: 30px;
     text-align: center;
     text-transform: uppercase;
@@ -35,7 +35,7 @@
 }
 
 .waiting .waiting_subheader {
-    font-family: Roboto;
+    font-family: 'Roboto';
     font-size: 23px;
     text-align: center;
     color: #4A4A4A;

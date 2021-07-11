@@ -31,7 +31,7 @@ const Finish = () => {
                         <div className="finish_round">
                             <img src={finThree} alt="graph" className="finish_icon" />
                         </div>
-                        <div className="finish_descr">Обеспечить ему медленный, но верный рост в ТОП</div>
+                        <div className="finish_descr">Обеспечить ему медлен- ный, но верный рост в ТОП</div>
                     </div>
                     <div className="finish_item">
                         <div className="finish_round">

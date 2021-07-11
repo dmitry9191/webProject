@@ -7,7 +7,7 @@ const Footer = () => {
         <section className="footer">
             <div className="container">
                 <div className="footer_text">
-                <a href="#">Служба поддержки</a>  |  <a href="#">Политика конфиденциальности</a><br /> Позвоните нам 8-800-555-01-21
+                    <a href="#">Служба поддержки</a>  |  <a href="#">Политика конфиденциальности</a><br /> <span>Позвоните нам 8-800-555-01-21</span>               
                 </div>
             </div>
         </section>

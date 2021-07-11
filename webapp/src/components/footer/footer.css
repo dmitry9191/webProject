@@ -13,12 +13,13 @@
     font-size: 15px;
     line-height: 21px;
     text-align: center;
-    text-decoration-line: underline;
     color: #888888;
 }
 
 .footer .footer_text a {
     text-decoration: none;
+    text-decoration-line: underline;
     color: #888888;
 }
+
 
